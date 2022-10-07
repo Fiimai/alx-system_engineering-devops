@@ -1,1 +1,1 @@
-# a script that prints the absolute path
+# scripts to run
