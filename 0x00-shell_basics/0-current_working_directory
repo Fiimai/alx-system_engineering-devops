@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PWD -type f -name 0-current_working_directory
+/root/alx-sytem_engineering/0x00-shell_basics
