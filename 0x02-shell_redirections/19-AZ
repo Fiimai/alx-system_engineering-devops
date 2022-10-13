@@ -1,2 +1,2 @@
 #!/bin/bash
-echo echo $input | tr Ac Ze
+echo $input | tr Ac Ze
