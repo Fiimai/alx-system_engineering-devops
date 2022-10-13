@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $(printf $PATH | tr ":" "
+" | wc -w)
